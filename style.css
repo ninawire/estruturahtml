@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 450px;
+    height: 700px;
+    border: 5px solid black;
+    margin: auto;
+}
+
+.header {
+    width: 440px;
+    border: 5px solid rgb(104, 201, 234);
+}
+
+.navBar {
+    width: 430px;
+    border: 5px solid rgb(118, 163, 51);
+}
+
+.menu {
+    display: inline-block;
+    width: 50px;
+    border: 5px solid rgb(166, 33, 146);
+    height: 50px;
+    margin: 10px;
+}
+
+.logo {
+    display: inline-block;
+    width: 50px;
+    border: 5px solid rgb(247, 239, 122);
+    height: 50px;
+    margin: 10px 100px;
+}
+
+.cart {
+    display: inline-block;
+    width: 50px;
+    border: 5px solid rgb(221, 57, 57);
+    height: 50px;
+    margin: 10px 10px 10px 10px;
+}
+
+.searchBar {
+    border: 5px solid rgb(221, 147, 57);
+    height: 30px;
+}
+
+.container {
+    border: 5px solid rgb(57, 221, 183);
+    height: 546px;
+}
+
+.promo {
+    border: 5px solid rgb(201, 67, 238);
+    height: 50px;
+}
+
+.secondMenu {
+    border: 5px solid rgb(138, 83, 15);
+    height: 30px;
+}
+
+.banner {
+    border: 5px solid rgb(241, 127, 220);
+    height: 400px;
+    width: 380px;
+    margin: auto;
+}
